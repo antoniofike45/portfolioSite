@@ -1,0 +1,43 @@
+body, html {
+    background-color: #D2E9E9;
+    font-size: 20px;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    height: 200vh;
+    margin: 0; 
+    padding: 30px 20px 30px 20px;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* ANCHOR TAG LINKS */
+.dklink {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.todoLink {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* DIV HOLDING ALL PROJECT LINKS */
+.projects {
+    padding: 30px 20px 30px 20px;
+}
+
+.projectTitle {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* FOOTER SECTION */
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px 0 10px 0;
+    text-align: center;
+}
